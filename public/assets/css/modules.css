@@ -1,5 +1,9 @@
 /* Image */
 
+#luke {
+  border-radius: 85%;
+}
+
 .image {
   display: inline-block;
   border: 0;
