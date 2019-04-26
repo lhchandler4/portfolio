@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Portfolio for me",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhchandler4/portfolio.git"
+  },
+  "author": "luke chandler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lhchandler4/portfolio/issues"
+  },
+  "homepage": "https://github.com/lhchandler4/portfolio#readme",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4"
+  }
+}
