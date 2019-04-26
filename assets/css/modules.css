@@ -204,7 +204,7 @@ button,
   color: #fff !important;
   text-decoration: none;
   padding: 0.75em 2.5em 0.75em 2.5em;
-  background-color: #8ebebc;
+  background-color: #2791e3;
   border: 0;
   cursor: pointer;
   background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -288,7 +288,7 @@ button,
   -webkit-justify-content: space-between;
   -ms-justify-content: space-between;
   justify-content: space-between;
-  background: #222629 url("images/overlay.png");
+  background: #1271ba url("images/overlay.png");
   box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
   color: #fff;
   height: 100%;
@@ -325,7 +325,7 @@ button,
   }
 
     #header .icons a {
-      color: #41484c;
+      color: #dee4e8;
       -moz-transition: color 0.35s ease-in-out;
       -webkit-transition: color 0.35s ease-in-out;
       -ms-transition: color 0.35s ease-in-out;
@@ -411,7 +411,7 @@ button,
       }
 
         #nav ul li a.active span:before {
-          color: #e27689;
+          color: #1ba007;
         }
 
 /* Footer */
@@ -456,7 +456,7 @@ button,
 			padding: 4em 0;
 			box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
 			text-align: center;
-			background-image: url("images/overlay.png");
+			background-image: url("images/ie/american-flag-wallpaper-9.jpg");
 		}
 
 			#main > section.dark {
@@ -490,7 +490,7 @@ button,
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("images/ie/blue-sky-after-sunset-dark-mountains-silhouette_huvkqiyr_thumbnail-full01.png");
 			}
 
 			#main > section.two {

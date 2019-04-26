@@ -10,11 +10,11 @@
 
 	body {
 		background: #fff;
-		font-family: 'Source Sans Pro', sans-serif;
+		font-family: 'Gugi', cursive;;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #888;
+		color: rgb(237, 233, 233);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -38,7 +38,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
-		color: #666;
+		color: rgb(218, 206, 206);
 		line-height: 1.5em;
 	}
 
@@ -48,7 +48,7 @@
 	}
 
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: #333;
+			color: rgb(215, 206, 206);
 		}
 
 	h2 {
@@ -57,11 +57,11 @@
 	}
 
 		h2.alt {
-			color: #888;
+			color: rgb(230, 221, 221);
 		}
 
 			h2.alt strong {
-				color: #666;
+				color: rgb(215, 209, 209);
 			}
 
 	h3 {
@@ -82,7 +82,7 @@
 
 	strong, b {
 		font-weight: 300;
-		color: #666;
+		color: rgb(232, 224, 224);
 	}
 
 	em, i {
@@ -101,7 +101,7 @@
 	}
 
 		a:hover {
-			color: #E27689;
+			color: rgb(64, 235, 76);
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
