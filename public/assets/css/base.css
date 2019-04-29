@@ -135,3 +135,152 @@
 	br.clear {
 		clear: both;
 	}
+
+	@media screen and (min-width: 961px) and (max-width: 1880px) {  
+	
+			body, input, textarea, select {
+				font-size: 15pt;
+			}
+
+			/* #jQueryCarousel
+			 li img {
+				max-width: 80%;
+			} */
+	
+	}
+	
+	@media screen and (min-width: 961px) and (max-width: 1620px) {
+	
+		/* #jQueryCarousel
+		 li img {
+			max-width: 100%;
+		} */
+	
+	}
+	
+	@media screen and (min-width: 961px) and (max-width: 1320px) {
+
+			body, input, textarea, select {
+				font-size: 15pt;
+			}
+			/* #jQueryCarousel
+			 li img{
+				max-width: 110%;
+			} */
+	}
+	
+	
+	
+	@media screen and (max-width: 960px) {
+	
+	
+			html, body {
+				overflow-x: hidden;
+			}
+	
+			body, input, textarea, select {
+				font-size: 15pt;
+			}
+	
+			header br {
+				display: none;
+			}
+
+			/* #jQueryCarousel
+			 li img {
+				max-width: 140%;
+			} */
+	
+	}
+	
+	
+	@media screen and (max-width: 736px) {
+	
+	
+			body, input, textarea, select {
+				font-size: 14pt;
+			}
+	
+			h2 {
+				font-size: 1.5em;
+				letter-spacing: 0;
+				font-weight: 300;
+			}
+
+			/* #jQueryCarousel
+			 li img {
+				max-width: 190%;
+			} */
+	}
+
+	@media screen and (max-width: 370px) {
+	
+			body, input, textarea, select {
+				font-size: 14pt;
+			}
+	
+			h2 {
+				font-size: 1.5em;
+				letter-spacing: 0;
+				font-weight: 300;
+			}
+
+			/* #jQueryCarousel
+			 li img {
+				max-width: 280%;
+			} */
+	}
+	
+			#video
+			{
+				position: relative;
+				width:auto;
+				height:auto;
+				padding:0px;
+				display: flex;
+				align-items: stretch;
+			}
+
+			/* #jQueryCarousel
+			 ul {
+				padding:0;
+				margin:0;
+				list-style:none;
+			}
+
+			#jQueryCarousel
+			 li {
+				padding:0;
+				margin:0;
+				position: absolute;
+				z-index: -100;
+				display: none;
+				align-self: stretch;
+			}
+			
+			#jQueryCarousel
+			 li.active {
+				display: inline-block;
+			}
+			
+			#jQueryCarousel
+			 .previos, #jQueryCarousel
+			 .next {
+				position: absolute;
+				z-index:500;
+				width:30px;
+				height:30px;
+				margin-top: 30%;
+				filter: opacity(.5);
+				color: #ddd;
+			}
+
+			#jQueryCarousel
+			 .next {
+				right:5%;
+			}
+
+			#jQueryCarousel
+			 .previous {
+				left:5%;
+			} */

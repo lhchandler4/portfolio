@@ -121,3 +121,30 @@
 				});
 
 })(jQuery);
+
+// $('#jQueryCarousel .next').on('click', function(e){
+// 	e.preventDefault();
+// 	var currently = $('#jQueryCarousel li.active');
+// 	var nextUp = $('#jQueryCarousel li.active').next();
+
+// 	currently.removeClass('active').hide();
+
+// 	if(nextUp.length===0){
+// 		nextUp=$('#jQueryCarousel li').first();
+// 	}
+// 	nextUp.addClass('active').show();
+// });
+
+// $('#jQueryCarousel .previous').on('click', function(e){
+// 	e.preventDefault();
+// 	var currently = $('#jQueryCarousel li.active');
+// 	var backUp = $('#jQueryCarousel li.active').prev();
+
+// 	currently.removeClass('active').hide();
+
+// 	if(backUp.length===0){
+// 		backUp=$('#jQueryCarousel li').last();
+// 	}
+// 	backUp.addClass('active').show();
+// });
+
